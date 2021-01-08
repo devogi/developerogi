@@ -11,4 +11,10 @@ Here is What I'm Working On! ✨
 - 📫 How to reach me: ogigogi56@gmail.com
 
 
-github-readme-stats-ten-wheat.vercel.app
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-ten-wheat.vercel.app/api?username=developerogi&show_icons=true&hide_border=true" />
+
+</details>
+
