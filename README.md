@@ -1,5 +1,5 @@
 <a href="https://cooltext.com"><img src="https://images.cooltext.com/5495359.gif" width="715" height="102" alt="Hello There, I'm OGI" /></a>
-<br />Image by <a href="https://cooltext.com">Cool Text: Free Graphics Generator</a> - <a href="https://cooltext.com/Edit-Logo?LogoID=3737062487">Edit Image</a>
+<br />
 Here is What I'm Working On! ✨ 
 
 
