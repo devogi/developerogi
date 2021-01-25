@@ -6,8 +6,8 @@ Here is What I'm Working On! ✨
 
 - 🔭 I’m currently working on Data Science
 - 🌱 I’m currently learning Web scraping & Automation, Pandas, Tensorflow
-- 🤔 I’m looking for help with ReactJS & React native
-- 💬 Ask me about Web Automation with Python
+- 🤔 I’m looking for help with Data Visualization
+- 💬 Ask me about Algorithms and Data Structures in Python
 - 📫 How to reach me: ogigogi56@gmail.com
 
 
