@@ -6,8 +6,8 @@ Here is What I'm Working On! ✨
 
 - 🔭 I’m currently working on JavaScript Frameworks
 - 🌱 I’m currently learning React
-- 💬 Ask me about Responsive Design/CSS
-- 📫 How to reach me: ogigogi56@gmail.com
+- 💬 Ask me about Front-End development
+- 📫 How to reach me: osalkim12@gmail.com
 
 
 <details>
